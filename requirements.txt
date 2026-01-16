@@ -1,0 +1,25 @@
+# Core ML frameworks
+torch>=2.9
+torchvision>=0.24
+tensorflow>=2.20
+
+# Object detection
+ultralytics>=8.3
+
+# Image processing
+opencv-python>=4.8
+pillow>=10.0
+
+# Data handling & visualization
+numpy>=2.2
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+
+# ML utilities
+scikit-learn>=1.4
+albumentations>=1.4
+
+# Experiment utilities
+tqdm>=4.66
+pyyaml>=6.0
